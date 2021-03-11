@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://q1-lemon.vercel.app"
+baseURL = "q1romania-news.vercel.app"
 languageCode = "en-us"
 title = "Yves Saint Laurent Biography"
 theme = "influencer-hugo"
